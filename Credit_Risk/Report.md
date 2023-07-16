@@ -11,12 +11,11 @@
 * LogisticRegression model was used to predict the data.
 
 ## Results
+Logistic Regression Model 1:
 
-* Logistic Regression Model 1:
-
-Precision: 100% precise on predicting low-risk loans and  87% precise in predicting high-risk loans
-Accuracy: 94%
-Recall: 100% precise on predicting low-risk loans and  89% precise in predicting high-risk loans
+* Precision: 100% precise on predicting low-risk loans and  87% precise in predicting high-risk loans
+* Accuracy: 94%
+* Recall: 100% precise on predicting low-risk loans and  89% precise in predicting high-risk loans
 
 ## Summary
 
