@@ -9,4 +9,4 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 * Write a Credit Risk Analysis Report
 
 # Results
-The results and the discussion can be found here:  [Report](https://github.com/sandhalie/credit-risk-classification/Credit-Risk/Report.md)
+The results and the discussion can be found here:  [Report](https://github.com/sandhalie/credit-risk-classification/blob/main/Credit_Risk/Report.md)
